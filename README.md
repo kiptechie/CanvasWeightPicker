@@ -11,7 +11,6 @@ A simple compose weight picker drawn with canvas.
 
 https://user-images.githubusercontent.com/40039858/166221666-82856a2d-ec1b-440b-97cb-30c600beff09.mp4
 
-
 ## Installation
 
 Clone this repository and import into **Android Studio**
